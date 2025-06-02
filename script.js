@@ -83,5 +83,5 @@ papers.forEach(paper => {
 // Evento para o coração redirecionar ao clicar
 const heartCard = document.getElementById('heartCard');
 heartCard.addEventListener('click', () => {
-  window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'; // Coloque seu vídeo aqui
+  window.location.href = 'https://kevinpandolfi02.github.io/12-06/'; // Coloque seu vídeo aqui
 });
